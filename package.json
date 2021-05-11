@@ -14,7 +14,7 @@
     "@react-navigation/native": "^5.7.2",
     "@react-navigation/stack": "^5.8.0",
     "axios": "^0.19.2",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "react": "16.13.1",
     "react-native": "0.63.2",
     "react-native-gesture-handler": "^1.7.0",
